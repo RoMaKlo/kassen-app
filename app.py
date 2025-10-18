@@ -2,7 +2,7 @@ import os
 import flet as ft
 
 # Preise (in Cent)
-PRICES = [600, 850, 350, 300, 250, 200, 1200]
+PRICES = [200, 250, 300, 350, 600, 850, 1200]
 
 
 def fmt_eur(c):
